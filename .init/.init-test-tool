@@ -1,0 +1,4 @@
+{
+    "command": "python test_db.py",
+    "working_directory": "/tmp/kavia/workspace/code-generation/minimal-control-dashboard-4903-4914/database"
+}

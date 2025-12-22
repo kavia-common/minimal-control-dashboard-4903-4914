@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/minimal-control-dashboard-4903-4914/database"
+}
